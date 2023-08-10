@@ -1,7 +1,7 @@
 # 100DaysCodingChallenge
 This is a repo that contains code related to 100 days code challenge udemy courses: 
 
-The following courses just contains python code but my goal is to implement the same code in Python and Golang.
+The following courses just contains python code but my goal is to implement the same code in Python and Golang along with corresponding Bash script if possible.
 
 https://www.udemy.com/course/100-days-of-code
 
