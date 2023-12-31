@@ -1,7 +1,7 @@
 /*
 Key Concepts covered in this program
 In Go, you can declare variables by using the var keyword, followed by the variable name and the variable type. For example=>  var smallVal uint8 = 255
-Go also supports shorthand variable declaration with the := operator. For example=>  numberOfUser := 300000
+Go also supports shorthand variable declaration with the walrus := operator. For example=>  numberOfUser := 300000
 
 While printing variables in golang and using fmt.Printf() function, these are the placeholders for various types:
 %d  =>  Integer  (int)
@@ -61,6 +61,3 @@ func main() {
 	fmt.Printf("Variable is of type: %T \n", LoginToken)
 
 }
-
-
-
